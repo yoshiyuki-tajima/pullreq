@@ -6,6 +6,9 @@ body{ background-color:antiquewhite; margin:0;padding:0;font-size:16px;}
 
 header{
 	background-color:aquamarine;
+	color:#fff;
+	font-size:3rem;
 	height:10rem;
+	padding:2rem;
 	width:100%;
 }
