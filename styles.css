@@ -1,10 +1,15 @@
 @charset "utf-8";
 /* CSS Document */
 
-body{ background-color:antiquewhite; margin:0;padding:0;font-size:16px;}
+*, *:before, *:after {
+            box-sizing: border-box;
+}
+
+body{ background-color:#A2D0A3; margin:0;padding:0;font-size:16px;}
 #stage{ background-color: #fff; margin: 0 auto; min-height:800px; width:1200px;}
 
 header{
+
 	background-color:#f69679;
 	color:#fff;
 	font-size:2rem;
